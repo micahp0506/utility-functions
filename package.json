@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/micahp0506/utility-functions#readme",
   "devDependencies": {
-    "chair": "0.0.0",
+    "chai": "^3.4.1",
     "mocha": "^2.3.4"
   }
 }
